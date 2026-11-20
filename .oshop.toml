@@ -17,7 +17,7 @@ documentation = "https://github.com/OSH-Enabler/HunterCatNFC/blob/main/README.md
 issues = "https://github.com/OSH-Enabler/HunterCatNFC/issues"
 
 # (optional) Link to the releases of your project.
-releases = https://github.com/OSH-Enabler/HunterCatNFC/releases"
+releases = "https://github.com/OSH-Enabler/HunterCatNFC/releases"
 
 # (optional) Link to the hardware bill of material of your project.
 # bom = "https://github.com/OSH-Enabler/HunterCatNFC/tree/main/bom"
